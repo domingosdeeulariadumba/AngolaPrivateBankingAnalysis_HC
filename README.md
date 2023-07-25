@@ -22,4 +22,4 @@ REFERENCES
 
 ACKNOWLEDGEMENT
 
-The data used in this project was compiled from the annual reports of the target banks, which can be accessed the links in 'References'.
+The data used in this project was compiled from the annual reports of the target banks, which can be accessed through the links in 'References'.
